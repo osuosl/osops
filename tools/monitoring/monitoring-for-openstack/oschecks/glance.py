@@ -20,8 +20,7 @@
 # under the License.
 
 
-import StringIO
-
+from io import StringIO
 from oschecks import utils
 
 
